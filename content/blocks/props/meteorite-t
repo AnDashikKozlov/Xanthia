@@ -1,0 +1,14 @@
+type: Block
+name: Meteorite Tryllinium
+description: "You not supposed to read that."
+size: 4
+category: effect
+health: 18482
+destructible: false
+breakable: false
+targetable: false
+allowDerelictRepair: false
+requirements: [
+ k03-tryllinium: 41942
+]
+buildVisibility: editorOnly
