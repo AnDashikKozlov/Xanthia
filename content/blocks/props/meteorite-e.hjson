@@ -1,0 +1,14 @@
+type: Block
+name: Meteorite Elanite
+description: "You not supposed to read that."
+size: 4
+category: effect
+health: 9672
+destructible: false
+breakable: false
+targetable: false
+allowDerelictRepair: false
+requirements: [
+ k01-elanite: 47294
+]
+buildVisibility: editorOnly
