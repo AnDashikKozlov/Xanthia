@@ -22,3 +22,8 @@ research: {
       }
     ]
 }
+researchCost: [
+k01-elanite/2750
+k02-foronium/2500
+k05-velorium/1900
+]
