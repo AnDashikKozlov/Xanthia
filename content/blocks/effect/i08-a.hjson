@@ -10,6 +10,9 @@ category: effect
 size: 3
 health: 350
 allowDerelictRepair: true
+destructible: true
+breakable: true
+targetable: true
 research: {
   parent: "i01-core-fragment"
     objectives: [
