@@ -1,6 +1,6 @@
 type: Block
 name: Source Of Power
-description: The source of power. The technology was found in enemy base.
+description: "The source of power. The technology was found in enemy base./n This a Lore block"
 requirements: [
 k01-elanite/650
 k02-foronium/400
