@@ -10,3 +10,12 @@ category: effect
 size: 3
 health: 350
 allowDerelictRepair: true
+research: {
+  parent: "i01-core-fragment"
+    objectives: [
+      {
+        type: SectorComplete
+        preset: "???"
+      }
+   
+}
